@@ -1,0 +1,13 @@
+G:\repos\AngularWebApp\SandBox\bin\Debug\netcoreapp3.1\SandBox.exe
+G:\repos\AngularWebApp\SandBox\bin\Debug\netcoreapp3.1\SandBox.deps.json
+G:\repos\AngularWebApp\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.json
+G:\repos\AngularWebApp\SandBox\bin\Debug\netcoreapp3.1\SandBox.runtimeconfig.dev.json
+G:\repos\AngularWebApp\SandBox\bin\Debug\netcoreapp3.1\SandBox.dll
+G:\repos\AngularWebApp\SandBox\bin\Debug\netcoreapp3.1\SandBox.pdb
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.csprojAssemblyReference.cache
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfoInputs.cache
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.AssemblyInfo.cs
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.csproj.CoreCompileInputs.cache
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.dll
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.pdb
+G:\repos\AngularWebApp\SandBox\obj\Debug\netcoreapp3.1\SandBox.genruntimeconfig.cache
